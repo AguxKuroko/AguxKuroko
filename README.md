@@ -1,3 +1,14 @@
-🎉 Hello there! Welcome to my GitHub profile, where I delve into the exciting world of coding and Python. 🐍✨
+💻 Backend & Data (Python)
 
-Let's keep coding and exploring! 🚀🐍✨
+Currently working with Python and FastAPI, building projects and improving my backend and data skills.
+
+🔨 Current project:
+- AI-powered meme API (FastAPI + OpenAI + caching + database integration)
+
+📊 Interests:
+- Backend development
+- API design
+- Data processing and modeling
+- Practical system design
+
+Learning by building and improving through real projects.
