@@ -1,4 +1,4 @@
-💻 Backend & Data (Python)
+💻 Data Engineer | Backend & Data (Python)
 
 Currently working with Python and FastAPI, building projects and improving my backend and data skills.
 
