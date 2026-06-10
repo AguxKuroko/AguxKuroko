@@ -10,5 +10,3 @@ Currently working with Python and FastAPI, building projects and improving my ba
 - API design
 - Data processing and modeling
 - Practical system design
-
-Learning by building and improving through real projects.
